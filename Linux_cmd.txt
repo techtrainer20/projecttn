@@ -1,0 +1,139 @@
+Self-registraion 
+
+https://sb-auth.skillsbuild.org/signup?ngo-id=0107
+
+
+learninf Plan 
+
+https://skills.yourlearning.ibm.com/activity/PLAN-DC0D0568B3BB
+
+NM
+
+https://www.naanmudhalvan.tn.gov.in/
+
+-------------------------------------------------------------
+VB
+
+https://www.virtualbox.org/wiki/Downloads
+
+kali linux
+
+https://www.osboxes.org/kali-linux/
+
+------------------------------
+
+cd 
+
+cd ..
+
+cd <folder_name>
+
+-----------------------
+
+
+mkdir <folder_name> - mkdir folder | make folder
+
+rmdir <folder_name> - rmdir folder | remove folder | empty folder only
+
+rm -r <folder_name> - rm -r folder | remove folder | with file
+
+----------------------------------
+
+file creation
+
+leafpad , mousepad, touch
+
+file.py , file.html
+
+cat filename.txt ---> read text
+--------------------
+
+list
+
+ls - list
+
+ls *.py , html,txt
+
+ls -a - shows hidden folder (mkdir .folder)
+
+ls -laS - details
+-------------------------
+
+ctrl+L = clear screen
+
+ctrl+shift+ +  zoom in
+
+ctrl+ - zoom out
+
+--------------------
+
+rm filename
+
+rm *.py, txt
+
+cp <file> <path(pwd)>
+
+mv <file> <path(pwd)>
+
+grep -i "m" cars.txt 
+
+
+echo "<h1>welcome</h1> >" > file.html
+
+------------------------------
+Sudo adduser username
+
+Sudo deluser username
+
+Shift user 
+   su username
+  passwd 
+exit
+-------------------------------
+
+working with server
+
+cd /var/www/html
+
+mkdir ibm
+
+leafpad index.html
+
+service apache2 start
+
+service apache2 stop
+
+service apaceh2 status
+
+--------------------------------------
+
+
+
+Networking cmd
+
+
+ping google.com or ping <ip>
+
+ifconfig - to find your kali private ip
+
+NAT - virtual Networking
+
+bridge- real networking
+
+
+nslookup google.com
+
+
+
+--------------------------
+
+
+man ping > ping.txt
+
+---------------------------------
+ 
+
+
+
+
+
